@@ -31,3 +31,37 @@
     transform: rotate(360deg);
   }
 }
+
+.mt-15{
+  margin-top: 15px;
+}
+
+.mr-5{
+  margin-right: 5px;
+}
+
+.ml-5{
+  margin-left: 5px;
+}
+
+.text-right{
+  float: right;
+  cursor: pointer;
+}
+
+.text-right:hover{
+  color:red
+}
+
+.myRed{
+  color: red
+}
+
+/* .sort_selected:after{
+  content: '\f00c';
+  font-weight: normal;
+  font-family: '\f2b4';
+  font-style: normal;
+  margin: 0px 0px 0px 10px;
+  display: inline;
+} */
